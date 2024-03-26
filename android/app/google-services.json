@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699518254479",
+    "project_id": "todolistwithfirebase-49a77",
+    "storage_bucket": "todolistwithfirebase-49a77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699518254479:android:86bd07a589f92edcefdffa",
+        "android_client_info": {
+          "package_name": "com.ohgiraffers.chap08_flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6xKdwXC_3LBtqiDRPTeOgWBMGso5iKeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
